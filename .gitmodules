@@ -1,3 +1,0 @@
-[submodule "external-lib"]
-	path = external-lib
-	url = https://github.com/octocat/Spoon-Knife.git
