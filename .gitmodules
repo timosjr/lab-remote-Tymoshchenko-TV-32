@@ -1,0 +1,3 @@
+[submodule "my-submodule"]
+	path = my-submodule
+	url = https://github.com/timosjr/sub-repo-Tymoshchenko-TV-32.git
